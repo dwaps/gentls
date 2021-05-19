@@ -1,0 +1,24 @@
+{
+  "name": "gentls",
+  "version": "1.0.0",
+  "description": "Script to generate basic auto signed TLS certificat and public signature for a node server in dev mode",
+  "main": "gentls.js",
+  "bin": {
+    "gentls": "./gentls.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwaps/gentls.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Michael Cornillon",
+    "email": "contact@dwaps.fr",
+    "url": "https://dwaps.fr"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwaps/gentls/issues"
+  },
+  "homepage": "https://github.com/dwaps/gentls#readme"
+}
