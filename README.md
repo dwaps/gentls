@@ -1,3 +1,3 @@
 ### Exécution du script
 
-`npx gentls`
+`npx gentls <name>`
